@@ -1,3 +1,4 @@
+'''Calculates the GPA using students records'''
 import csv
 
 
